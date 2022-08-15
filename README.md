@@ -89,7 +89,7 @@ Final solutions available at:
 
 * [X] [Solution 3](./solution/challenge3.ts) - ./solution/challenge3.ts
 
-* [ ] [Solution 4](./solution/challenge4.ts) - ./solution/challenge4.ts
+* [X] [Solution 4](./solution/challenge4.ts) - ./solution/challenge4.ts
 
 <br/>
 
